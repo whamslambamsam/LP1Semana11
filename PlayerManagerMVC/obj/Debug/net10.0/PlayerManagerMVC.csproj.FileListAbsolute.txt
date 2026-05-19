@@ -1,0 +1,15 @@
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana11\PlayerManagerMVC\bin\Debug\net10.0\PlayerManagerMVC.exe
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana11\PlayerManagerMVC\bin\Debug\net10.0\PlayerManagerMVC.deps.json
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana11\PlayerManagerMVC\bin\Debug\net10.0\PlayerManagerMVC.runtimeconfig.json
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana11\PlayerManagerMVC\bin\Debug\net10.0\PlayerManagerMVC.dll
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana11\PlayerManagerMVC\bin\Debug\net10.0\PlayerManagerMVC.pdb
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana11\PlayerManagerMVC\obj\Debug\net10.0\PlayerManagerMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana11\PlayerManagerMVC\obj\Debug\net10.0\PlayerManagerMVC.AssemblyInfoInputs.cache
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana11\PlayerManagerMVC\obj\Debug\net10.0\PlayerManagerMVC.AssemblyInfo.cs
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana11\PlayerManagerMVC\obj\Debug\net10.0\PlayerManagerMVC.csproj.CoreCompileInputs.cache
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana11\PlayerManagerMVC\obj\Debug\net10.0\PlayerManagerMVC.sourcelink.json
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana11\PlayerManagerMVC\obj\Debug\net10.0\PlayerManagerMVC.dll
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana11\PlayerManagerMVC\obj\Debug\net10.0\refint\PlayerManagerMVC.dll
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana11\PlayerManagerMVC\obj\Debug\net10.0\PlayerManagerMVC.pdb
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana11\PlayerManagerMVC\obj\Debug\net10.0\PlayerManagerMVC.genruntimeconfig.cache
+C:\Users\caras\OneDrive\Desktop\LP1\LP1Semana11\PlayerManagerMVC\obj\Debug\net10.0\ref\PlayerManagerMVC.dll
