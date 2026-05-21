@@ -18,4 +18,12 @@ Player : CompareTo()
 
 CompareByName : Compare()
 CompareByName : CompareByName()
+
+class PlayerOrder
+
+IComparer <|.. Player
+IComparer <|.. CompareByName
+Player <.. Program
+CompareByName <.. Program
+PlayerOrder <.. Program
 ```
